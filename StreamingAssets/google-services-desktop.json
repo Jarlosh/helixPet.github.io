@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "756703321858",
+    "firebase_url": "https://helix-pet-jump-pets-vs-balls-default-rtdb.firebaseio.com",
+    "project_id": "helix-pet-jump-pets-vs-balls",
+    "storage_bucket": "helix-pet-jump-pets-vs-balls.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756703321858:android:29ff5773935d45f737ac1b",
+        "android_client_info": {
+          "package_name": "kz.beeline.helixpetjump"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "756703321858-v16i9fpmap888ebu9ovoajrg339pc3bp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApOmDyEk6JLZtx2-ACZk3fSvDD2e4IleU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "756703321858-v16i9fpmap888ebu9ovoajrg339pc3bp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "756703321858-9dd7551kt1guquosamchvgdphthi49lc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "kz.beeline.helixpetjump"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
